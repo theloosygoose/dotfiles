@@ -1,0 +1,6 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/theloosygoose/tmux-config
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/theloosygoose/lazy-nvim
