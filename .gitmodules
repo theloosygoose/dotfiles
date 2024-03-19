@@ -4,4 +4,4 @@
 
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/theloosygoose/lazy-nvim
+	url = https://github.com/theloosygoose/nvim-lazy
